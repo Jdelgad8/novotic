@@ -3,9 +3,9 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="">
+    <div className="Contenedor-principal">
       <div>
-        <p>Header top </p>
+        <p>Header top a</p>
       </div>
       <div>
         <p>Header main</p>
